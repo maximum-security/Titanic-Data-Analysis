@@ -1,6 +1,5 @@
 # Titanic Data Analysis
 Predicting passenger survival through machine learning using a dataset containing information on Titanic passengers
----
 
 ### Overview
 This project involves a dataset containing the information on passengers from the Titanic ship that sank in 1912. The main purpose of this project is to predict passenger survival through machine learning. The data was explored and cleaned, then processed for subsequent machine learning tasks.
@@ -19,3 +18,13 @@ Files used: `train.csv` and `test.csv`
 
 ### Results
 Results showed that Decision Tree was the highest performer among the models trained, with a score of 0.72009 (72.009%) on the Titanic test file. To increase the efficiency of this model, future improvements could focus on hyperparameter tuning and class balance.
+
+### Tools and Libraries
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Plotly Express
+- Scikit-learn
+- XGBoost
